@@ -1,5 +1,11 @@
 [
     {
+   
+    "name": "土狗",
+    "url": "https://mf.qiau.cn/json.php?url=",
+    "type": 1
+  },
+    {
 
     "name": "晓成解析",
     "url":"http://118.112.240.209:808/api/?key=xtuNtFiWXUx8avFwZi&url=",
@@ -19,8 +25,13 @@
   },
     {
    
-    "name": "土狗",
-    "url": "https://mf.qiau.cn/json.php?url=",
+    "name": "M3u8",
+    "url": "https://json.3ayl.com/json/?id=3&url=",
     "type": 1
-  }
+  },
+    {
+        "name": "8090",
+        "url": "https://user.seakee.cn/system/api?uid=88904760&token=f80f7cdcbfa73170fa1fac712d99cb8c&url=",
+        "type": 1
+    }
 ]
