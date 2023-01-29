@@ -1,7 +1,20 @@
 [
-{
-  "name": "16",
-  "url": "https://jhjx.kuanjv.com/newky/?url=",
-  "type": 1
-}
+    {
+
+    "name": "晓成解析",
+    "url":"http://118.112.240.209:808/api/?key=xtuNtFiWXUx8avFwZi&url=",
+    "type": 1
+  },
+  {
+
+    "name": "虾米-web",
+    "url": "https://jx.xmflv.com/?url=",
+    "type": 0
+  },
+  {
+   
+    "name": "4k-web",
+    "url": "https://jx.4kdv.com/?url=",
+    "type": 0
+  }
 ]
