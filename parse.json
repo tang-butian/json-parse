@@ -35,8 +35,8 @@
         "type": 1
     },
    {
-       ＂name＂: ＂辛店解析＂,
-       ＂url＂:  ＂http://jx.xdv.icu/home/api?type=ys&uid=3612456&key=bcfkruADFGMNQZ0689&url=＂,
-       ＂type＂:  1
+       "name": "辛店解析",
+       "url":  "http://jx.xdv.icu/home/api?type=ys&uid=3612456&key=bcfkruADFGMNQZ0689&url=",
+       "type":  1
 }
 ]
