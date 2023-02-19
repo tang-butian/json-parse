@@ -35,8 +35,8 @@
        "type":  1
 },
        {
-       "name": "综合-web",
-       "url":  "https://jx.jsonplayer.com/player/?url=",
+       "name": "B站-web",
+       "url":  "https://jx.playerjy.com/?url=",
        "type":  0
 }
 ]
