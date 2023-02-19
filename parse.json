@@ -38,5 +38,10 @@
        "name": "辛店解析",
        "url":  "http://jx.xdv.icu/api/?key=qXN9aUTyKxwbpq0i9t&url=",
        "type":  1
+},
+       {
+       "name": "综合解析-web",
+       "url":  "https://jx.jsonplayer.com/player/?url=",
+       "type":  0
 }
 ]
