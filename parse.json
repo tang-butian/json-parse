@@ -33,5 +33,10 @@
        "name": "辛店解析",
        "url":  "http://jx.xdv.icu/api/?key=qXN9aUTyKxwbpq0i9t&url=",
        "type":  1
-}
+},
+  {
+    "name": "肥猫解析",
+    "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
+    "type": 1
+  }
 ]
