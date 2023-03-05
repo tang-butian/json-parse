@@ -21,7 +21,7 @@
     {
    
     "name": "M3u8",
-    "url": "https://json.3ayl.com/json/?id=3&url=",
+    "url": "http://58.49.150.180:5678/json/?id=3&url=",
     "type": 1
   },
     {
@@ -34,14 +34,31 @@
        "url":  "http://jx.xdv.icu/api/?key=qXN9aUTyKxwbpq0i9t&url=",
        "type":  1
 },
+
   {
-    "name": "肥猫解析",
-    "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
+    "name": "1988解析",
+    "url": "http://jx.zjtv.top/?url=",
     "type": 1
   },
   {
-    "name": "1988解析",
-    "url": "https://vip.198830.com/jx/?url=",
+    "name": "接口1",
+    "url": "http://58.49.150.180:5678/json/?id=1&url=",
+    "type": 1
+  },
+  {
+    "name": "接口2",
+    "url": "http://58.49.150.180:5678/json/?id=2&url=",
+    "type": 1
+  },
+  {
+    "name": "接口4",
+    "url": "http://58.49.150.180:5678/json/?id=4&url=",
+    "type": 1
+  },
+  {
+    "name": "接口5",
+    "url": "http://58.49.150.180:5678/json/?id=5&url=",
     "type": 1
   }
+  
 ]
