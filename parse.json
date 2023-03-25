@@ -18,6 +18,12 @@
     "url": "https://bd.jx.cn/?url=",
     "type": 0
   },
+  {
+   
+    "name": "jsonp-web",
+    "url": "https://jx.jsonplayer.com/player/?url=",
+    "type": 0
+  },
     {
    
     "name": "M3u8",
@@ -69,5 +75,5 @@
     "name": "ai",
     "url": "https://ai.itcxo.cn/chenxi.php?key=chenxijx&url=",
     "type": 1
-  },
+  }
 ]
