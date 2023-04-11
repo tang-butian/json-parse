@@ -22,7 +22,7 @@
     {
    
     "name": "M3u8",
-    "url": "http://58.49.150.180:5678/json/?id=3&url=",
+    "url": "http://111.180.204.147:7080/json/?id=3&url=",
     "type": 1
   },
     {
@@ -30,8 +30,6 @@
         "url": "https://user.seakee.cn/system/api?uid=88904760&token=f80f7cdcbfa73170fa1fac712d99cb8c&url=",
         "type": 1
     },
-  
-
   {
     "name": "1988解析",
     "url": "https://vip.198830.com/json/json.php?url=",
@@ -39,22 +37,22 @@
   },
   {
     "name": "接口1",
-    "url": "http://58.49.150.180:5678/json/?id=1&url=",
+    "url": "http://111.180.204.147:7080/json/?id=1&url=",
     "type": 1
   },
   {
     "name": "接口2",
-    "url": "http://58.49.150.180:5678/json/?id=2&url=",
+    "url": "http://111.180.204.147:7080/json/?id=2&url=",
     "type": 1
   },
   {
     "name": "接口4",
-    "url": "http://58.49.150.180:5678/json/?id=4&url=",
+    "url": "http://111.180.204.147:7080/json/?id=4&url=",
     "type": 1
   },
   {
     "name": "接口5",
-    "url": "http://58.49.150.180:5678/json/?id=5&url=",
+    "url": "http://111.180.204.147:7080/json/?id=5&url=",
     "type": 1
   },
   
