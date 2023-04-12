@@ -76,10 +76,5 @@
     "name": "jh",
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
     "type": 1
-  },
-  {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
-{"name": "宝盒TV","type": 1,"url": "https://jx.52ruo.cc/json/?id=6&url="},
-  { "name" : "懒懒1", "type" : 1, "url" : "http://123.57.56.94:9931/lanlan/?url=" },
-{"name": "智能[④]","type": 1,"url": "https://json.freejx.in/?url="},
-
+  }
 ]
