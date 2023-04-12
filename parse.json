@@ -71,5 +71,10 @@
     "name": "ai",
     "url": "https://ai.itcxo.cn/chenxi.php?key=chenxijx&url=",
     "type": 1
+  },
+   {
+    "name": "3333ai",
+    "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+    "type": 1
   }
 ]
