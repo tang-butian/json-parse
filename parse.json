@@ -1,4 +1,6 @@
-[
+{
+  "configUrl": "",
+  "parseBeans": [
   
     {
 
@@ -78,3 +80,5 @@
     "type": 1
   }
 ]
+}
+
