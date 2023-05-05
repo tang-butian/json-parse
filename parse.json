@@ -1,5 +1,5 @@
 {
-  "configUrl": "https://fastly.jsdelivr.net/gh/tv-player/tvbox-line@main/tv/g6qm.json",
+  "configUrl": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json",
   "parseBeans": [
   
     {
