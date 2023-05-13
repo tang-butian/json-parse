@@ -1,18 +1,7 @@
 {
   "configUrl": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
   "parseBeans": [
-     {
-
-    "name": "量子解析",
-    "url":"http://118.112.240.209:808/api/?key=xtuNtFiWXUx8avFwZi&url=",
-    "type": 4
-  },
-       {
-
-    "name": "非凡解析",
-    "url":"http://118.112.240.209:808/api/?key=xtuNtFiWXUx8avFwZi&url=",
-    "type": 5
-  },
+   
     {
 
     "name": "晓成解析",
