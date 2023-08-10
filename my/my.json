@@ -36,6 +36,29 @@
             "filterable": 1
            
         },
+        
+       
+        {
+            "key": "csp_IQIYI",
+            "name": "🥝爱奇艺",
+            "type": 3,
+            "api": "csp_IQIYI"
+           
+        },
+         {
+            "key": "csp_YouKu",
+            "name": "优酷",
+            "type": 3,
+            "api": "csp_YouKu"
+          
+        },
+        {
+            "key": "csp_MGTV",
+            "name": "🍋芒果TV",
+            "type": 3,
+            "api": "csp_MGTV"
+          
+        },
         {
             "key": "快看资源",
             "name": "快看采集",
@@ -87,21 +110,6 @@
                 "港台动漫",
                 "其他动漫"
             ]
-        },
-       
-        {
-            "key": "csp_IQIYI",
-            "name": "🥝爱奇艺",
-            "type": 3,
-            "api": "csp_IQIYI"
-           
-        },
-        {
-            "key": "csp_MGTV",
-            "name": "🍋芒果TV",
-            "type": 3,
-            "api": "csp_MGTV"
-          
         }
         
     ],
