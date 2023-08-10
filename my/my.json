@@ -25,7 +25,17 @@
             "filterable": 1
            
         },
-       
+        {
+            "key": "B",
+            "name": "B站",
+            "type": 3,
+            "api": "csp_BiliBili",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+           
+        },
         {
             "key": "快看资源",
             "name": "快看采集",
