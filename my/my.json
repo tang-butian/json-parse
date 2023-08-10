@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/tang-butian/json-parse/main/custom_spider.jar;md5;51478af77b4177df8b5d396cb8f55c99",
+    "spider": "https://raw.githubusercontent.com/tang-butian/json-parse/main/custom_spider.jar;md5;93aa599b307f5e7082e9459f31ebfbe9",
     "lives": [
         {
             "group": "redirect",
