@@ -219,7 +219,7 @@
             "key": "月资源",
             "name": "月采集",
             "type": 1,
-            "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
